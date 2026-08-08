@@ -351,7 +351,7 @@ This is recorded here rather than quietly dropped, because knowing where your me
 
 - Public Kaggle notebook, Stage 15 single model: https://www.kaggle.com/code/ghostylicious/3rd-place-object-centric-convnext-unet-distance
 - Public Kaggle notebook, Stage 12 blend (the scored submission, multi-stage and less tidy): https://www.kaggle.com/code/ghostylicious/kaust-kaggle-challenge-2-2026-12th
-- LinkedIn post: 
+- LinkedIn post: https://www.linkedin.com/posts/yahya-alsharif-204103304_computervision-deeplearning-imagesegmentation-ugcPost-7491964300434030592-Fpdu/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE2dIWQBZLjAgTMt-fRTgrU6gBmDguzSMYo 
 
 ## Credits and attribution
 
