@@ -268,7 +268,7 @@ Compared with Stage 10 (0.8573 / 0.7569 / 0.7792 / 0.7518), the object-centric m
 
 ```
 .
-├── 3rd_place_notebook/
+├── Final_notebook/
 │   ├── 15th_kaust_challenge2_FINAL_slamdunk_colab_FIXED_outputs.ipynb   # the submitted solution
 │   └── 15th_REPORT.md                                                   # auto-generated run report
 │
@@ -292,7 +292,7 @@ Every stage notebook writes its own `REPORT.md` at the end of the run: configura
 
 The final notebook is written for **Google Colab with a T4 GPU** and runs unattended from a cold start.
 
-1. Open `3rd_place_notebook/15th_kaust_challenge2_FINAL_slamdunk_colab_FIXED_outputs.ipynb` in Colab.
+1. Open `Final_notebook/15th_kaust_challenge2_FINAL_slamdunk_colab_FIXED_outputs.ipynb` in Colab.
 2. Runtime → Change runtime type → **T4 GPU**.
 3. Upload your `kaggle.json` API token to `/content/kaggle.json`. The notebook downloads the competition data itself.
 4. **Run all.**
@@ -351,7 +351,7 @@ This is recorded here rather than quietly dropped, because knowing where your me
 
 - Public Kaggle notebook, Stage 15 single model: https://www.kaggle.com/code/ghostylicious/3rd-place-object-centric-convnext-unet-distance
 - Public Kaggle notebook, Stage 12 blend (the scored submission, multi-stage and less tidy): https://www.kaggle.com/code/ghostylicious/kaust-kaggle-challenge-2-2026-12th
-- LinkedIn post: https://www.linkedin.com/posts/yahya-alsharif-204103304_computervision-deeplearning-imagesegmentation-ugcPost-7491964300434030592-Fpdu/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE2dIWQBZLjAgTMt-fRTgrU6gBmDguzSMYo 
+- LinkedIn post: https://www.linkedin.com/posts/yahya-alsharif-204103304_computervision-deeplearning-imagesegmentation-ugcPost-7491964300434030592-Fpdu/ 
 
 ## Credits and attribution
 
